@@ -1,0 +1,11 @@
+.counter {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 250px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-around;
+}
